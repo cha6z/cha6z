@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I'm Chabod.
 Engineering Undergraduate | Master of Robotics & AI Candidate<br>
 
 
