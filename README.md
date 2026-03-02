@@ -1,5 +1,7 @@
 # Hi, I'm Chabod.
-## I’m an Electrical & Aerospace Engineering student focused on building high-performance systems across robotics, AI, and aerospace.My work spans embedded systems, control theory, computer vision, machine learning, and distributed engineering architectures. I enjoy turning complex theoretical concepts into working hardware and deployable software. Currently, I’m deepening my expertise in robotics and artificial intelligence, with strong interests in autonomous systems, quantitative computing, and large-scale technical infrastructure. I build with intent; engineering systems that are precise, scalable, and built for real-world impact.
+## I’m an Electrical & Aerospace Engineering student focused on building high-performance systems across robotics, AI, and aerospace.My work spans embedded systems, control theory, computer vision, machine learning, and distributed engineering architectures. I enjoy turning complex theoretical concepts into working hardware and deployable software. 
+
+## Currently, I’m deepening my expertise in robotics and artificial intelligence, with strong interests in autonomous systems, quantitative computing, and large-scale technical infrastructure. I build with intent; engineering systems that are precise, scalable, and built for real-world impact.
 
 
 # 💻 Tech Stack:
