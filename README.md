@@ -1,11 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Chabod&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=cha6z">
-    <img src="https://komarev.com/ghpvc/?username=cha6z&label=Profile%20views&color=00FFFF&style=flat-square" alt="cha6z's profile views" />
-  </a>
-</p>
-
 ## 📌 About Me
 - Electrical & Aerospace Engineering student building high-performance systems in robotics, AI, and aerospace.
 - I work across embedded systems, control theory, computer vision, and machine learning. I focus on turning theory into working hardware and deployable software.
@@ -23,10 +17,6 @@
   </a>
   <img src="https://streak-stats.demolab.com/?user=cha6z&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="cha6z's GitHub Streak" width="49%" />
 </p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
-
 
 ## 🛠️ Languages & Tools
 
