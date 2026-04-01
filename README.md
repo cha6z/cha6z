@@ -52,7 +52,23 @@
 
 ###
 
-<p align="left"># Hi, I’m Chabod<br><br>Electrical & Aerospace Engineering student building high-performance systems in robotics, AI, and aerospace.<br><br>I work across embedded systems, control theory, computer vision, and machine learning. I focus on turning theory into working hardware and deployable software.<br><br>Currently deepening my expertise in robotics and artificial intelligence, with interests in autonomous systems, quantitative computing, and scalable engineering infrastructure.</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cha6z/cha6z/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cha6z/cha6z/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cha6z/cha6z/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<br clear="both">
+
+<p align="center">Electrical & Aerospace Engineering student building high-performance systems in robotics, AI, and aerospace.<br><br>I work across embedded systems, control theory, computer vision, and machine learning. I focus on turning theory into working hardware and deployable software.<br><br>Currently deepening my expertise in robotics and artificial intelligence, with interests in autonomous systems, quantitative computing, and scalable engineering infrastructure.</p>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=cha6z.cha6z&"  />
+</div>
 
 ###
 
@@ -62,6 +78,9 @@
 
 ###
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cha6z&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cha6z&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
